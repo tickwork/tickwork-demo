@@ -1,0 +1,8 @@
+[package]
+name = "tickwork-demo"
+version = "0.1.0"
+edition = "2021"
+description = "Demo game for the Tickwork incremental game engine"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/tickwork/tickwork-demo"
+publish = true
